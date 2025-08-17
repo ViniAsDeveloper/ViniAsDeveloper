@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @ViniAsDeveloper
-- I like modded Minecraft a lot
-- I’m currently learning Java
-- I’m looking to collaborate with everyone
+- I'm still finishing secondary education, but I've been devoting a lot of time to programming for the past 5 years.
+- I created desktop games in C and C++, and games for Facebook Games in JavaScript and TypeScript; without engines or frameworks. And I did a lot of programming in embedded systems for school projects.
+- I'm currently working on a graphical API project for modern GPUs and on a tool that automates customer relationship management using locally run optimised AI models.
+- I like modded Minecraft a lot. I've worked on two small Minecraft servers with mods as a sole programmer, and I'm still learning Java.
+- I’m looking to collaborate with everyone.
